@@ -1,3 +1,4 @@
+
 html,body{
     font-size:30px;
     padding: 0px;
@@ -5,7 +6,6 @@ html,body{
     background-color: #f4f0ec;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Arapey:ital@0;1&family=Berkshire+Swash&family=Carattere&family=Cormorant:ital,wght@0,300;1,400&family=Luckiest+Guy&family=Petit+Formal+Script&family=Rochester&display=swap');
 .header-container{
     font-family: 'petit formal script'; 
     color:#333333;
@@ -14,7 +14,6 @@ html,body{
     text-align: center;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Arapey:ital@0;1&family=Berkshire+Swash&family=Carattere&family=Cormorant:ital,wght@0,300;1,400&family=Gideon+Roman&family=Luckiest+Guy&family=Petit+Formal+Script&family=Rochester&display=swap');
 .topnav{
     font-family: 'gideon roman'; 
     color:#333333;
@@ -121,8 +120,8 @@ html,body{
     }
   }
 
-  @import url('https://fonts.googleapis.com/css2?family=Arapey:ital@0;1&family=Berkshire+Swash&family=Carattere&family=Cormorant:ital,wght@0,300;1,400&family=Gideon+Roman&family=Luckiest+Guy&family=Petit+Formal+Script&family=Rochester&display=swap');
   .linkedin{
+    font-family: 'gideon roman';
     border: none;
     color: #333333;
     padding: 15px 32px;
@@ -131,7 +130,6 @@ html,body{
     font-size: 16px;
   }
   
-  @import url('https://fonts.googleapis.com/css2?family=Arapey:ital@0;1&family=Berkshire+Swash&family=Carattere&family=Cormorant:ital,wght@0,300;1,400&family=Gideon+Roman&family=Luckiest+Guy&family=Petit+Formal+Script&family=Rochester&display=swap');
   .footer{
       display: flex;
       justify-content: space-between;
